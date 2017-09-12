@@ -2,8 +2,8 @@
 
   usage 
   
-  python attack.py http://www.example.com -c -t
+      python attack.py http://www.example.com -c -t
   
-  -c: thread
+      -c: thread
   
-  -t: time
+      -t: time
